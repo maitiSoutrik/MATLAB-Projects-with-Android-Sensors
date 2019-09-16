@@ -1,7 +1,6 @@
 % RotateBox
 % Rotates 3D box based on phone orientation
-%  
-% Copyright 2016 MatrixUniversity.net
+
 
 % Enable Connector
 connector on
