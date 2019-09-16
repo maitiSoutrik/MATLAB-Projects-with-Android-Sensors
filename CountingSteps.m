@@ -1,7 +1,6 @@
 % CountingSteps
 % Counts Number of Steps from Acceleration Data
-%  
-% Copyright 2016 MatrixUniversity.net
+
 
 % Enable Connector
 connector on
