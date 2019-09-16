@@ -1,7 +1,6 @@
 % Shaking
 % Detects whether phone is shaking
-%  
-% Copyright 2016 MatrixUniversity.net
+
 
 % Enable Connector
 connector on
