@@ -1,7 +1,7 @@
 % Compass
 % Plots Magnetic Field Data as a vector
 %  
-% Copyright 2016 MatrixUniversity.net
+
 
 % Enable Connector
 connector on
