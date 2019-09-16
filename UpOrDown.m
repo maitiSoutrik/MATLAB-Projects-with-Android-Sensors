@@ -1,7 +1,6 @@
 % UpOrDown
 % Detects whether mobile device is Face Up or Face Down
-%  
-% Copyright 2016 MatrixUniversity.net
+
 
 % Enable Connector
 connector on
