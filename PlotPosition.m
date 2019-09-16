@@ -3,8 +3,7 @@
 
 % Requires plot_google_map function from MATLAB File Exchange
 % http://www.mathworks.com/matlabcentral/fileexchange/27627-zoharby-plot-google-map
-%  
-% Copyright 2016 MatrixUniversity.net
+
 
 % Enable Connector
 connector on
